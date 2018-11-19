@@ -1,0 +1,16 @@
+checkout
+git clone git@github.com:frizia75/working.git
+
+update
+git pull origin master
+
+add new file
+git add <filename>
+
+commit
+git commit -a
+
+checkin
+git push origin master
+
+
