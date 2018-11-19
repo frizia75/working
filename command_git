@@ -1,5 +1,6 @@
 checkout
 git clone git@github.com:frizia75/working.git
+git clone git@github.com:<someone_else/<repo_name>.git
 
 update
 git pull origin master
@@ -14,3 +15,8 @@ checkin
 git push origin master
 
 
+fork someone else' repository
+use github.com web UI
+
+checkout forked repo
+git clone git@github.com:frizia75/<repo_name>.git
